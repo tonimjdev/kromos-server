@@ -9,6 +9,9 @@ console.log( process.env );
 // Crear el servidor/aplicación de express
 const app = express();
 
+
+
+
 // Base de datos
 dbConnection();
 
@@ -21,7 +24,11 @@ app.use( cors() );
 // Lectura y parseo del body
 app.use( express.json() );
 
-// Rutas
+// Ruta kromos
+const router = require('./routes/kromos')
+app.use('/api', router) // Ruta base (endpoint)
+
+// Ruta Usuarios
 app.use( '/api/auth', require('./routes/auth') );
 
 // Manejar demas rutas

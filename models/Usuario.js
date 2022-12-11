@@ -22,6 +22,9 @@ const UsuaruioSchema = Schema({
     longitude: {
         type: Number,
         required: true
+    },
+    picture: {
+        type: String,
     }
 });
 

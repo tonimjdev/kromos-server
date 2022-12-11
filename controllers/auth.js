@@ -7,7 +7,7 @@ const { generarJWT } = require("../helpers/jwt");
 
 // NEW USER
 const crearUsuario = async (req, res = response) => {
-  const { email, name, password } = req.body;
+  const { email, name, password, latitude, longitude, picture } = req.body;
 
   try {
     // Verificar el email
@@ -39,6 +39,9 @@ const crearUsuario = async (req, res = response) => {
       uid: dbUser.id,
       name,
       email,
+      latitude,
+      longitude,
+      picture,
       token,
     });
   } catch (error) {
@@ -92,6 +95,9 @@ const loginUsuario = async (req, res = response) => {
       uid: dbUser.id,
       name: dbUser.name,
       email: dbUser.email,
+      latitude: dbUser.latitude,
+      longitude: dbUser.longitude,
+      picture: dbUser.picture,
       token,
     });
   } catch (error) {
@@ -123,6 +129,9 @@ const revalidarToken = async (req, res = response) => {
     uid,
     name: dbUser.name,
     email: dbUser.email,
+    latitude: dbUser.latitude,
+    longitude: dbUser.longitude,
+    picture: dbUser.picture,
     token
   });
 };

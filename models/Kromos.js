@@ -7,6 +7,9 @@ const KromosSchema = Schema({
     },
     lo_tienen: {
         type: Array
+    },
+    lo_quieren: {
+        type: Array
     }
 });
 

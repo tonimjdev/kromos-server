@@ -28,8 +28,12 @@ app.use( express.json() );
 const router = require('./routes/kromos')
 app.use('/api', router) // Ruta base (endpoint)
 
-// Ruta Usuarios
+// Ruta Auth User
 app.use( '/api/auth', require('./routes/auth') );
+
+// Ruta usuarios
+app.use( '/api/user', require('./routes/users') );
+
 
 // Manejar demas rutas
 app.get( '*', (req, res) => {

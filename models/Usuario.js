@@ -25,6 +25,9 @@ const UsuaruioSchema = Schema({
     },
     picture: {
         type: String,
+    },
+    kromos: {
+        type: Array,
     }
 });
 

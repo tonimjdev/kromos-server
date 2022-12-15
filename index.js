@@ -9,9 +9,6 @@ console.log( process.env );
 // Crear el servidor/aplicación de express
 const app = express();
 
-
-
-
 // Base de datos
 dbConnection();
 
@@ -33,6 +30,10 @@ app.use( '/api/auth', require('./routes/auth') );
 
 // Ruta usuarios
 app.use( '/api/user', require('./routes/users') );
+
+// Ruta Messages
+const router2= require('./routes/messages')
+app.use('/api', router2);
 
 
 // Manejar demas rutas

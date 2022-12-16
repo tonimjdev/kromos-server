@@ -1,6 +1,7 @@
 const Messages = require('../models/Messages')
 
 // GET all
+
 function getMessages (req, res) {
     Messages.find({}, (err, messages) => {
         if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
@@ -8,6 +9,20 @@ function getMessages (req, res) {
         
         res.status(200).send({ messages })
         })
+}
+
+function getSendRec(req, res) {
+    let sender =  req.query.sender;
+    let recipient = req.query.recipient;
+
+    Messages.find({ sender: sender, recipient: recipient }, (err, messages) => {
+        if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
+        if (!messages) return res.status(404).send ({message: `No existen mensajes`})
+        
+        res.status(200).send({ messages })
+        
+    }).sort({timestamp:-1})
+
 }
 
 // Función POST (añade nuevo mensaje a la DB)
@@ -31,5 +46,6 @@ function saveMessage (req, res) {
 // EXPORT
 module.exports = {
     getMessages,
+    getSendRec,
     saveMessage
 }

@@ -20,7 +20,7 @@ function getSendRec(req, res) {
         if (!messages) return res.status(404).send ({message: `No existen mensajes`})
         
         res.status(200).send({ messages }) 
-    });
+    }).sort({timestamp:1});
 
 }
 

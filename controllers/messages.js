@@ -19,9 +19,8 @@ function getSendRec(req, res) {
         if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
         if (!messages) return res.status(404).send ({message: `No existen mensajes`})
         
-        res.status(200).send({ messages })
-        
-    }).sort({timestamp:-1})
+        res.status(200).send({ messages }) 
+    });
 
 }
 

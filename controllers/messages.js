@@ -1,7 +1,6 @@
 const Messages = require('../models/Messages')
 
 // GET all
-
 function getMessages (req, res) {
     Messages.find({}, (err, messages) => {
         if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
@@ -11,6 +10,31 @@ function getMessages (req, res) {
         })
 }
 
+// GET by Sender
+function getSender(req, res) {
+    let sender =  req.query.sender;
+
+    Messages.find({ sender: sender }, (err, messages) => {
+        if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
+        if (!messages) return res.status(404).send ({message: `No existen mensajes`})
+        
+        res.status(200).send({ messages }) 
+    }).sort({timestamp:1});
+}
+
+// GET by Recipient
+function getRecipient(req, res) {
+    let recipient =  req.query.recipient;
+
+    Messages.find({ recipient: recipient }, (err, messages) => {
+        if (err) return res.status(500).send({message: `Error al realizar la petición ${err}`})
+        if (!messages) return res.status(404).send ({message: `No existen mensajes`})
+        
+        res.status(200).send({ messages }) 
+    }).sort({timestamp:1});
+}
+
+// GET by Sender & Recipient
 function getSendRec(req, res) {
     let sender =  req.query.sender;
     let recipient = req.query.recipient;
@@ -45,6 +69,8 @@ function saveMessage (req, res) {
 // EXPORT
 module.exports = {
     getMessages,
+    getSender,
+    getRecipient,
     getSendRec,
     saveMessage
 }

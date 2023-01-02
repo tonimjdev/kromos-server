@@ -58,11 +58,24 @@ function saveMessage (req, res) {
     message.sender = req.body.sender
     message.recipient = req.body.recipient
     message.timestamp = req.body.timestamp
+    message.read = req.body.read
   
     message.save((err, messageStored) => {
       if (err) res.status(500).send({message: `Error al guardar en DB: ${err}`})
   
       res.status(200).send({message: messageStored})
+    })
+}
+
+// Funcion PUT (para modificar estado READ a true cuando se lee el mensaje)
+function updateMessage(req, res) {
+    let messageId = req.params.messageId
+    let update = req.body
+
+    Messages.findByIdAndUpdate(messageId, update, (err, messageUpdated) => {
+        if (err) res.status(500).send({message: `Error al actualizar mensaje ${err}`})
+    
+        res.status(200).send({ message: messageUpdated })
     })
 }
 
@@ -72,5 +85,6 @@ module.exports = {
     getSender,
     getRecipient,
     getSendRec,
-    saveMessage
+    saveMessage,
+    updateMessage
 }

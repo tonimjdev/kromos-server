@@ -15,6 +15,9 @@ const MessagesSchema = Schema({
     },
     timestamp: {
         type: Date
+    },
+    read: {
+        type: Boolean
     }
 });
 

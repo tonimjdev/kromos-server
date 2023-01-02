@@ -12,5 +12,7 @@ router.get('/messages/recipient', messagesCtrl.getRecipient)
 router.get('/messages/sendrec', messagesCtrl.getSendRec)
 // POST
 router.post('/messages', messagesCtrl.saveMessage)
+// PUT 
+router.put('/messages/:messageId', messagesCtrl.updateMessage)
 
 module.exports = router

@@ -58,7 +58,7 @@ function saveMessage (req, res) {
     message.sender = req.body.sender
     message.recipient = req.body.recipient
     message.timestamp = req.body.timestamp
-    message.read = req.body.read
+    message.read = false
   
     message.save((err, messageStored) => {
       if (err) res.status(500).send({message: `Error al guardar en DB: ${err}`})

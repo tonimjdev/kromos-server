@@ -1,5 +1,5 @@
 {
-  "name": "12-auth-server",
+  "name": "kromos-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

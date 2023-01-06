@@ -1,0 +1,8 @@
+Qatar: 6e0d3e "color": "linear-gradient(#03071e 10%, #d00000 60%, #ffba08 90%)"
+
+
+
+
+
+Germany -> "color": "linear-gradient(#03071e 10%, #d00000 60%, #ffba08 90%)"
+

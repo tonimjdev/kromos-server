@@ -1,0 +1,5300 @@
+[
+    {
+        "id":1,
+        "card":"00",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":2,
+        "card":"FCW1",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":3,
+        "card":"FCW2",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":4,
+        "card":"FCW3",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":5,
+        "card":"FCW4",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":6,
+        "card":"FCW5",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":7,
+        "card":"FCW6",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":8,
+        "card":"FCW7",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":9,
+        "card":"FCW8",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":10,
+        "card":"FCW9",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":11,
+        "card":"FCW10",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":12,
+        "card":"FCW11",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":13,
+        "card":"FCW12",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":14,
+        "card":"FCW13",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":15,
+        "card":"FCW14",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":16,
+        "card":"FCW15",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":17,
+        "card":"FCW16",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":18,
+        "card":"FCW17",
+        "ud": 0,
+        "category":"Stadiums",
+        "color":"linear-gradient(208.25deg, #5037B4 15.38%, #271765 55.1%)"
+        },
+    {
+        "id":19,
+        "card":"FCW18",
+        "ud": 0,
+        "category":"Specials",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":20,
+        "card":"QAT1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":21,
+        "card":"QAT2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":22,
+        "card":"QAT3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":23,
+        "card":"QAT4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":24,
+        "card":"QAT5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":25,
+        "card":"QAT6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":26,
+        "card":"QAT7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":27,
+        "card":"QAT8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":28,
+        "card":"QAT9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":29,
+        "card":"QAT10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":30,
+        "card":"QAT11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":31,
+        "card":"QAT12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":32,
+        "card":"QAT13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":33,
+        "card":"QAT14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":34,
+        "card":"QAT15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":35,
+        "card":"QAT16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":36,
+        "card":"QAT17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":37,
+        "card":"QAT18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":38,
+        "card":"QAT19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":39,
+        "card":"QAT20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Qatar",
+        "color":"linear-gradient(188.51deg, #9A004A 11.08%, #210E17 93.49%)"
+        },
+    {
+        "id":40,
+        "card":"ECU1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":41,
+        "card":"ECU2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":42,
+        "card":"ECU3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":43,
+        "card":"ECU4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":44,
+        "card":"ECU5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":45,
+        "card":"ECU6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":46,
+        "card":"ECU7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":47,
+        "card":"ECU8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":48,
+        "card":"ECU9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":49,
+        "card":"ECU10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":50,
+        "card":"ECU11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":51,
+        "card":"ECU12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":52,
+        "card":"ECU13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":53,
+        "card":"ECU14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":54,
+        "card":"ECU15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":55,
+        "card":"ECU16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":56,
+        "card":"ECU17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":57,
+        "card":"ECU18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":58,
+        "card":"ECU19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":59,
+        "card":"ECU20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ecuador",
+        "color":"linear-gradient(355.77deg, #001769 3.44%, #DEBB00 69.63%)"
+        },
+    {
+        "id":60,
+        "card":"SEN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":61,
+        "card":"SEN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":62,
+        "card":"SEN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":63,
+        "card":"SEN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":64,
+        "card":"SEN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":65,
+        "card":"SEN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":66,
+        "card":"SEN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":67,
+        "card":"SEN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":68,
+        "card":"SEN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":69,
+        "card":"SEN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":70,
+        "card":"SEN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":71,
+        "card":"SEN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":72,
+        "card":"SEN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":73,
+        "card":"SEN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":74,
+        "card":"SEN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":75,
+        "card":"SEN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":76,
+        "card":"SEN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":77,
+        "card":"SEN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":78,
+        "card":"SEN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":79,
+        "card":"SEN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Senegal",
+        "color":"linear-gradient(195.74deg, #01A880 31.71%, #002119 97.25%)"
+        },
+    {
+        "id":80,
+        "card":"NED1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":81,
+        "card":"NED2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":82,
+        "card":"NED3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":83,
+        "card":"NED4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":84,
+        "card":"NED5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":85,
+        "card":"NED6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":86,
+        "card":"NED7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":87,
+        "card":"NED8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":88,
+        "card":"NED9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":89,
+        "card":"NED10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":90,
+        "card":"NED11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":91,
+        "card":"NED12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":92,
+        "card":"NED13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":93,
+        "card":"NED14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":94,
+        "card":"NED15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":95,
+        "card":"NED16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":96,
+        "card":"NED17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":97,
+        "card":"NED18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":98,
+        "card":"NED19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":99,
+        "card":"NED20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Netherlands",
+        "color":"linear-gradient(213.42deg, #B85800 31.93%, #100800 96.56%)"
+        },
+    {
+        "id":100,
+        "card":"ENG1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":101,
+        "card":"ENG2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":102,
+        "card":"ENG3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":103,
+        "card":"ENG4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":104,
+        "card":"ENG5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":105,
+        "card":"ENG6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":106,
+        "card":"ENG7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":107,
+        "card":"ENG8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":108,
+        "card":"ENG9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":109,
+        "card":"ENG10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":110,
+        "card":"ENG11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":111,
+        "card":"ENG12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":112,
+        "card":"ENG13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":113,
+        "card":"ENG14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":114,
+        "card":"ENG15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":115,
+        "card":"ENG16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":116,
+        "card":"ENG17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":117,
+        "card":"ENG18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":118,
+        "card":"ENG19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":119,
+        "card":"ENG20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"England",
+        "color":"linear-gradient(331.47deg, #0065DB 6.85%, #001B50 49.75%)"
+    },
+    {
+        "id":120,
+        "card":"IRN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":121,
+        "card":"IRN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":122,
+        "card":"IRN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":123,
+        "card":"IRN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":124,
+        "card":"IRN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":125,
+        "card":"IRN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":126,
+        "card":"IRN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":127,
+        "card":"IRN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":128,
+        "card":"IRN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":129,
+        "card":"IRN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":130,
+        "card":"IRN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":131,
+        "card":"IRN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":132,
+        "card":"IRN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":133,
+        "card":"IRN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":134,
+        "card":"IRN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":135,
+        "card":"IRN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":136,
+        "card":"IRN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":137,
+        "card":"IRN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":138,
+        "card":"IRN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":139,
+        "card":"IRN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Iran",
+        "color":"linear-gradient(207.39deg, #FFFFFF -32.57%, #127E00 46.56%, #000000 108.14%)"
+    },
+    {
+        "id":140,
+        "card":"USA1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":141,
+        "card":"USA2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":142,
+        "card":"USA3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":143,
+        "card":"USA4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":144,
+        "card":"USA5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":145,
+        "card":"USA6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":146,
+        "card":"USA7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":147,
+        "card":"USA8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":148,
+        "card":"USA9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":149,
+        "card":"USA10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":150,
+        "card":"USA11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":151,
+        "card":"USA12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":152,
+        "card":"USA13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":153,
+        "card":"USA14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":154,
+        "card":"USA15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":155,
+        "card":"USA16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":156,
+        "card":"USA17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":157,
+        "card":"USA18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":158,
+        "card":"USA19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":159,
+        "card":"USA20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"USA",
+        "color":"linear-gradient(147.9deg, #000000 0.32%, #0030AC 46.53%, #FF0000 188.72%, #FFFFFF 192.84%)"
+    },
+    {
+        "id":160,
+        "card":"WAL1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":161,
+        "card":"WAL2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":162,
+        "card":"WAL3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":163,
+        "card":"WAL4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":164,
+        "card":"WAL5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":165,
+        "card":"WAL6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":166,
+        "card":"WAL7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":167,
+        "card":"WAL8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":168,
+        "card":"WAL9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":169,
+        "card":"WAL10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":170,
+        "card":"WAL11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":171,
+        "card":"WAL12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":172,
+        "card":"WAL13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":173,
+        "card":"WAL14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":174,
+        "card":"WAL15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":175,
+        "card":"WAL16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":176,
+        "card":"WAL17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":177,
+        "card":"WAL18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":178,
+        "card":"WAL19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":179,
+        "card":"WAL20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Wales",
+        "color":"linear-gradient(195.18deg, #000000 -0.66%, #B70000 43.89%, #247309 112.31%)"
+    },
+    {
+        "id":180,
+        "card":"ARG1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":181,
+        "card":"ARG2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":182,
+        "card":"ARG3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":183,
+        "card":"ARG4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":184,
+        "card":"ARG5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":185,
+        "card":"ARG6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":186,
+        "card":"ARG7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":187,
+        "card":"ARG8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":188,
+        "card":"ARG9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":189,
+        "card":"ARG10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":190,
+        "card":"ARG11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":191,
+        "card":"ARG12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":192,
+        "card":"ARG13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":193,
+        "card":"ARG14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":194,
+        "card":"ARG15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":195,
+        "card":"ARG16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":196,
+        "card":"ARG17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":197,
+        "card":"ARG18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":198,
+        "card":"ARG19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":199,
+        "card":"ARG20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Argentina",
+        "color":"linear-gradient(192.6deg, #08D8F4 19.8%, #006674 57.31%)"
+    },
+    {
+        "id":200,
+        "card":"KSA1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":201,
+        "card":"KSA2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":202,
+        "card":"KSA3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":203,
+        "card":"KSA4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":204,
+        "card":"KSA5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":205,
+        "card":"KSA6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":206,
+        "card":"KSA7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":207,
+        "card":"KSA8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":208,
+        "card":"KSA9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":209,
+        "card":"KSA10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":210,
+        "card":"KSA11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":211,
+        "card":"KSA12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":212,
+        "card":"KSA13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":213,
+        "card":"KSA14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":214,
+        "card":"KSA15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":215,
+        "card":"KSA16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":216,
+        "card":"KSA17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":217,
+        "card":"KSA18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":218,
+        "card":"KSA19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":219,
+        "card":"KSA20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Saudi Arabia",
+        "color":"linear-gradient(226.42deg, #25F221 -23.01%, #0B4F0D 34.31%, #011503 65.09%)"
+    },
+    {
+        "id":220,
+        "card":"MEX1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":221,
+        "card":"MEX2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":222,
+        "card":"MEX3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":223,
+        "card":"MEX4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":224,
+        "card":"MEX5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":225,
+        "card":"MEX6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":226,
+        "card":"MEX7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":227,
+        "card":"MEX8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":228,
+        "card":"MEX9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":229,
+        "card":"MEX10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":230,
+        "card":"MEX11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":231,
+        "card":"MEX12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":232,
+        "card":"MEX13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":233,
+        "card":"MEX14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":234,
+        "card":"MEX15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":235,
+        "card":"MEX16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":236,
+        "card":"MEX17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":237,
+        "card":"MEX18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":238,
+        "card":"MEX19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":239,
+        "card":"MEX20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Mexico",
+        "color":"linear-gradient(322.12deg, #B91600 10.26%, #7D6B68 28.33%, #1E5F00 51.78%)"
+    },
+    {
+        "id":240,
+        "card":"POL1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":241,
+        "card":"POL2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":242,
+        "card":"POL3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":243,
+        "card":"POL4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":244,
+        "card":"POL5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":245,
+        "card":"POL6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":246,
+        "card":"POL7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":247,
+        "card":"POL8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":248,
+        "card":"POL9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":249,
+        "card":"POL10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":250,
+        "card":"POL11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":251,
+        "card":"POL12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":252,
+        "card":"POL13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":253,
+        "card":"POL14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":254,
+        "card":"POL15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":255,
+        "card":"POL16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":256,
+        "card":"POL17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":257,
+        "card":"POL18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":258,
+        "card":"POL19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":259,
+        "card":"POL20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Poland",
+        "color":"linear-gradient(69.02deg, #000000 -11.64%, #B90000 50.1%, #FFFFFF 99.95%)"
+    },
+    {
+        "id":260,
+        "card":"FRA1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":261,
+        "card":"FRA2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":262,
+        "card":"FRA3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":263,
+        "card":"FRA4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":264,
+        "card":"FRA5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":265,
+        "card":"FRA6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":266,
+        "card":"FRA7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":267,
+        "card":"FRA8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":268,
+        "card":"FRA9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":269,
+        "card":"FRA10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":270,
+        "card":"FRA11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":271,
+        "card":"FRA12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":272,
+        "card":"FRA13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":273,
+        "card":"FRA14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":274,
+        "card":"FRA15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":275,
+        "card":"FRA16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":276,
+        "card":"FRA17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":277,
+        "card":"FRA18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":278,
+        "card":"FRA19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":279,
+        "card":"FRA20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"France",
+        "color":"linear-gradient(320.06deg, #7395EE 4.09%, #00057A 44.78%)"
+    },
+    {
+        "id":280,
+        "card":"AUS1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":281,
+        "card":"AUS2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":282,
+        "card":"AUS3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":283,
+        "card":"AUS4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":284,
+        "card":"AUS5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":285,
+        "card":"AUS6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":286,
+        "card":"AUS7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":287,
+        "card":"AUS8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":288,
+        "card":"AUS9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":289,
+        "card":"AUS10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":290,
+        "card":"AUS11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":291,
+        "card":"AUS12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":292,
+        "card":"AUS13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":293,
+        "card":"AUS14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":294,
+        "card":"AUS15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":295,
+        "card":"AUS16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":296,
+        "card":"AUS17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":297,
+        "card":"AUS18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":298,
+        "card":"AUS19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":299,
+        "card":"AUS20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Australia",
+        "color":"linear-gradient(320.5deg, #FFD600 9.3%, #9C8300 48.25%, #001C81 92.31%)"
+    },
+    {
+        "id":300,
+        "card":"DEN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":301,
+        "card":"DEN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":302,
+        "card":"DEN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":303,
+        "card":"DEN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":304,
+        "card":"DEN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":305,
+        "card":"DEN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":306,
+        "card":"DEN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":307,
+        "card":"DEN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":308,
+        "card":"DEN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":309,
+        "card":"DEN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":310,
+        "card":"DEN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":311,
+        "card":"DEN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":312,
+        "card":"DEN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":313,
+        "card":"DEN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":314,
+        "card":"DEN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":315,
+        "card":"DEN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":316,
+        "card":"DEN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":317,
+        "card":"DEN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":318,
+        "card":"DEN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":319,
+        "card":"DEN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Denmark",
+        "color":"linear-gradient(341.47deg, #AC0000 58.93%, #CACACA 98.63%)"
+    },
+    {
+        "id":320,
+        "card":"TUN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":321,
+        "card":"TUN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":322,
+        "card":"TUN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":323,
+        "card":"TUN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":324,
+        "card":"TUN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":325,
+        "card":"TUN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":326,
+        "card":"TUN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":327,
+        "card":"TUN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":328,
+        "card":"TUN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":329,
+        "card":"TUN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":330,
+        "card":"TUN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":331,
+        "card":"TUN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":332,
+        "card":"TUN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":333,
+        "card":"TUN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":334,
+        "card":"TUN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":335,
+        "card":"TUN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":336,
+        "card":"TUN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":337,
+        "card":"TUN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":338,
+        "card":"TUN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":339,
+        "card":"TUN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Tunisia",
+        "color":"radial-gradient(137.4% 137.4% at 4.33% 100%, #DECECE 15.36%, #920000 42.91%, #5A0000 100%)"
+    },
+    {
+        "id":340,
+        "card":"ESP1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":341,
+        "card":"ESP2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":342,
+        "card":"ESP3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":343,
+        "card":"ESP4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":344,
+        "card":"ESP5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":345,
+        "card":"ESP6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":346,
+        "card":"ESP7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":347,
+        "card":"ESP8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":348,
+        "card":"ESP9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":349,
+        "card":"ESP10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":350,
+        "card":"ESP11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":351,
+        "card":"ESP12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":352,
+        "card":"ESP13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":353,
+        "card":"ESP14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":354,
+        "card":"ESP15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":355,
+        "card":"ESP16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":356,
+        "card":"ESP17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":357,
+        "card":"ESP18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":358,
+        "card":"ESP19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":359,
+        "card":"ESP20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Spain",
+        "color":"linear-gradient(23.4deg, #8E0202 52.91%, #CBAA00 94.26%)"
+    },
+    {
+        "id":360,
+        "card":"CRC1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":361,
+        "card":"CRC2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":362,
+        "card":"CRC3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":363,
+        "card":"CRC4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":364,
+        "card":"CRC5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":365,
+        "card":"CRC6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":366,
+        "card":"CRC7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":367,
+        "card":"CRC8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":368,
+        "card":"CRC9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":369,
+        "card":"CRC10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":370,
+        "card":"CRC11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":371,
+        "card":"CRC12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":372,
+        "card":"CRC13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":373,
+        "card":"CRC14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":374,
+        "card":"CRC15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":375,
+        "card":"CRC16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":376,
+        "card":"CRC17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":377,
+        "card":"CRC18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":378,
+        "card":"CRC19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":379,
+        "card":"CRC20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Costa Rica",
+        "color":"linear-gradient(207.89deg, #000000 -28.89%, #3E00C2 63.12%, #3C0000 113.25%)"
+    },
+    {
+        "id":380,
+        "card":"GER1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":381,
+        "card":"GER2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":382,
+        "card":"GER3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":383,
+        "card":"GER4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":384,
+        "card":"GER5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":385,
+        "card":"GER6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":386,
+        "card":"GER7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":387,
+        "card":"GER8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":388,
+        "card":"GER9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":389,
+        "card":"GER10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":390,
+        "card":"GER11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":391,
+        "card":"GER12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":392,
+        "card":"GER13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":393,
+        "card":"GER14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":394,
+        "card":"GER15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":395,
+        "card":"GER16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":396,
+        "card":"GER17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":397,
+        "card":"GER18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":398,
+        "card":"GER19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":399,
+        "card":"GER20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Germany",
+        "color":"linear-gradient(143.48deg, #000000 14.86%, #8B0000 47.48%, #E4C000 81.31%)"
+    },
+    {
+        "id":400,
+        "card":"JPN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":401,
+        "card":"JPN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":402,
+        "card":"JPN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":403,
+        "card":"JPN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":404,
+        "card":"JPN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":405,
+        "card":"JPN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":406,
+        "card":"JPN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":407,
+        "card":"JPN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":408,
+        "card":"JPN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":409,
+        "card":"JPN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":410,
+        "card":"JPN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":411,
+        "card":"JPN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":412,
+        "card":"JPN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":413,
+        "card":"JPN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":414,
+        "card":"JPN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":415,
+        "card":"JPN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":416,
+        "card":"JPN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":417,
+        "card":"JPN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":418,
+        "card":"JPN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":419,
+        "card":"JPN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Japan",
+        "color":"radial-gradient(73.56% 52.59% at 70.67% 71.54%, #1F96BB 38.02%, #00499F 81.34%)"
+    },
+    {
+        "id":420,
+        "card":"BEL1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":421,
+        "card":"BEL2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":422,
+        "card":"BEL3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":423,
+        "card":"BEL4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":424,
+        "card":"BEL5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":425,
+        "card":"BEL6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":426,
+        "card":"BEL7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":427,
+        "card":"BEL8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":428,
+        "card":"BEL9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":429,
+        "card":"BEL10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":430,
+        "card":"BEL11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":431,
+        "card":"BEL12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":432,
+        "card":"BEL13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":433,
+        "card":"BEL14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":434,
+        "card":"BEL15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":435,
+        "card":"BEL16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":436,
+        "card":"BEL17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":437,
+        "card":"BEL18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":438,
+        "card":"BEL19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":439,
+        "card":"BEL20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Belgium",
+        "color":"linear-gradient(145.3deg, #160D00 11.32%, #CCB800 51.45%, #D80F03 76.06%)"
+    },
+    {
+        "id":440,
+        "card":"CAN1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":441,
+        "card":"CAN2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":442,
+        "card":"CAN3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":443,
+        "card":"CAN4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":444,
+        "card":"CAN5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":445,
+        "card":"CAN6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":446,
+        "card":"CAN7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":447,
+        "card":"CAN8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":448,
+        "card":"CAN9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":449,
+        "card":"CAN10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":450,
+        "card":"CAN11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":451,
+        "card":"CAN12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":452,
+        "card":"CAN13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":453,
+        "card":"CAN14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":454,
+        "card":"CAN15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":455,
+        "card":"CAN16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":456,
+        "card":"CAN17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":457,
+        "card":"CAN18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":458,
+        "card":"CAN19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":459,
+        "card":"CAN20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Canada",
+        "color":"linear-gradient(148.54deg, #8C0000 47.86%, #C7B6B6 94.94%)"
+    },
+    {
+        "id":460,
+        "card":"MAR1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":461,
+        "card":"MAR2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":462,
+        "card":"MAR3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":463,
+        "card":"MAR4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":464,
+        "card":"MAR5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":465,
+        "card":"MAR6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":466,
+        "card":"MAR7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":467,
+        "card":"MAR8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":468,
+        "card":"MAR9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":469,
+        "card":"MAR10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":470,
+        "card":"MAR11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":471,
+        "card":"MAR12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":472,
+        "card":"MAR13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":473,
+        "card":"MAR14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":474,
+        "card":"MAR15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":475,
+        "card":"MAR16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":476,
+        "card":"MAR17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":477,
+        "card":"MAR18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":478,
+        "card":"MAR19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":479,
+        "card":"MAR20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Morocco",
+        "color":"linear-gradient(196.03deg, #950303 10.66%, #002B11 84.44%)"
+    },
+    {
+        "id":480,
+        "card":"CRO1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":481,
+        "card":"CRO2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":482,
+        "card":"CRO3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":483,
+        "card":"CRO4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":484,
+        "card":"CRO5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":485,
+        "card":"CRO6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":486,
+        "card":"CRO7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":487,
+        "card":"CRO8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":488,
+        "card":"CRO9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":489,
+        "card":"CRO10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":490,
+        "card":"CRO11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":491,
+        "card":"CRO12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":492,
+        "card":"CRO13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":493,
+        "card":"CRO14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":494,
+        "card":"CRO15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":495,
+        "card":"CRO16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":496,
+        "card":"CRO17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":497,
+        "card":"CRO18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":498,
+        "card":"CRO19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":499,
+        "card":"CRO20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Croatia",
+        "color":"linear-gradient(41.33deg, #001E6C 32.06%, #B6180E 77.43%)"
+    },
+    {
+        "id":500,
+        "card":"BRA1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":501,
+        "card":"BRA2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":502,
+        "card":"BRA3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":503,
+        "card":"BRA4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":504,
+        "card":"BRA5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":505,
+        "card":"BRA6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":506,
+        "card":"BRA7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":507,
+        "card":"BRA8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":508,
+        "card":"BRA9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":509,
+        "card":"BRA10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":510,
+        "card":"BRA11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":511,
+        "card":"BRA12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":512,
+        "card":"BRA13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":513,
+        "card":"BRA14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":514,
+        "card":"BRA15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":515,
+        "card":"BRA16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":516,
+        "card":"BRA17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":517,
+        "card":"BRA18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":518,
+        "card":"BRA19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":519,
+        "card":"BRA20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Brazil",
+        "color":"linear-gradient(55.51deg, #000000 -9.04%, #247309 49.92%, #FFD600 78.22%)"
+    },
+    {
+        "id":520,
+        "card":"SRB1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":521,
+        "card":"SRB2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":522,
+        "card":"SRB3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":523,
+        "card":"SRB4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":524,
+        "card":"SRB5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":525,
+        "card":"SRB6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":526,
+        "card":"SRB7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":527,
+        "card":"SRB8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":528,
+        "card":"SRB9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":529,
+        "card":"SRB10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":530,
+        "card":"SRB11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":531,
+        "card":"SRB12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":532,
+        "card":"SRB13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":533,
+        "card":"SRB14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":534,
+        "card":"SRB15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":535,
+        "card":"SRB16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":536,
+        "card":"SRB17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":537,
+        "card":"SRB18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":538,
+        "card":"SRB19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":539,
+        "card":"SRB20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Serbia",
+        "color":"linear-gradient(197.04deg, #FF0000 1.46%, #B70000 13.95%, #0E0066 82.3%)"
+    },
+    {
+        "id":540,
+        "card":"SUI1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":541,
+        "card":"SUI2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":542,
+        "card":"SUI3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":543,
+        "card":"SUI4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":544,
+        "card":"SUI5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":545,
+        "card":"SUI6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":546,
+        "card":"SUI7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":547,
+        "card":"SUI8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":548,
+        "card":"SUI9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":549,
+        "card":"SUI10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":550,
+        "card":"SUI11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":551,
+        "card":"SUI12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":552,
+        "card":"SUI13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":553,
+        "card":"SUI14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":554,
+        "card":"SUI15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":555,
+        "card":"SUI16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":556,
+        "card":"SUI17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":557,
+        "card":"SUI18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":558,
+        "card":"SUI19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":559,
+        "card":"SUI20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Switzerland",
+        "color":"linear-gradient(148.33deg, #FFFBFB -7.18%, #8D0000 44.99%, #1A0000 94.73%)"
+    },
+    {
+        "id":560,
+        "card":"CMR1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":561,
+        "card":"CMR2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":562,
+        "card":"CMR3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":563,
+        "card":"CMR4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":564,
+        "card":"CMR5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":565,
+        "card":"CMR6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":566,
+        "card":"CMR7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":567,
+        "card":"CMR8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":568,
+        "card":"CMR9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":569,
+        "card":"CMR10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":570,
+        "card":"CMR11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":571,
+        "card":"CMR12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":572,
+        "card":"CMR13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":573,
+        "card":"CMR14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":574,
+        "card":"CMR15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":575,
+        "card":"CMR16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":576,
+        "card":"CMR17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":577,
+        "card":"CMR18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":578,
+        "card":"CMR19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":579,
+        "card":"CMR20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Cameroon",
+        "color":"linear-gradient(90deg, #185B00 -1.42%, #9C0404 49.82%, #B59800 99.51%)"
+    },
+    {
+        "id":580,
+        "card":"POR1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":581,
+        "card":"POR2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":582,
+        "card":"POR3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":583,
+        "card":"POR4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":584,
+        "card":"POR5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":585,
+        "card":"POR6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":586,
+        "card":"POR7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":587,
+        "card":"POR8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":588,
+        "card":"POR9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":589,
+        "card":"POR10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":590,
+        "card":"POR11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":591,
+        "card":"POR12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":592,
+        "card":"POR13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":593,
+        "card":"POR14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":594,
+        "card":"POR15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":595,
+        "card":"POR16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":596,
+        "card":"POR17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":597,
+        "card":"POR18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":598,
+        "card":"POR19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":599,
+        "card":"POR20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Portugal",
+        "color":"linear-gradient(336.06deg, #AB0000 6.02%, #023F1A 73.79%)"
+    },
+    {
+        "id":600,
+        "card":"GHA1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":601,
+        "card":"GHA2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":602,
+        "card":"GHA3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":603,
+        "card":"GHA4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":604,
+        "card":"GHA5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":605,
+        "card":"GHA6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":606,
+        "card":"GHA7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":607,
+        "card":"GHA8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":608,
+        "card":"GHA9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":609,
+        "card":"GHA10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":610,
+        "card":"GHA11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":611,
+        "card":"GHA12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":612,
+        "card":"GHA13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":613,
+        "card":"GHA14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":614,
+        "card":"GHA15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":615,
+        "card":"GHA16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":616,
+        "card":"GHA17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":617,
+        "card":"GHA18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":618,
+        "card":"GHA19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":619,
+        "card":"GHA20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Ghana",
+        "color":"linear-gradient(336.91deg, #114200 3.32%, #BD9F03 47.45%, #CD0000 92.47%)"
+    },
+    {
+        "id":620,
+        "card":"URU1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":621,
+        "card":"URU2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":622,
+        "card":"URU3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":623,
+        "card":"URU4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":624,
+        "card":"URU5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":625,
+        "card":"URU6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":626,
+        "card":"URU7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":627,
+        "card":"URU8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":628,
+        "card":"URU9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":629,
+        "card":"URU10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":630,
+        "card":"URU11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":631,
+        "card":"URU12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":632,
+        "card":"URU13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":633,
+        "card":"URU14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":634,
+        "card":"URU15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":635,
+        "card":"URU16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":636,
+        "card":"URU17",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":637,
+        "card":"URU18",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":638,
+        "card":"URU19",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":639,
+        "card":"URU20",
+        "ud": 0,
+        "category":"Countries",
+        "country":"Uruguay",
+        "color":"linear-gradient(323.56deg, #014650 1.65%, #08D8F4 64.24%, #FFFFFF 97.39%)"
+    },
+    {
+        "id":640,
+        "card":"KOR1",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":641,
+        "card":"KOR2",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":642,
+        "card":"KOR3",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":643,
+        "card":"KOR4",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":644,
+        "card":"KOR5",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":645,
+        "card":"KOR6",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":646,
+        "card":"KOR7",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":647,
+        "card":"KOR8",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":648,
+        "card":"KOR9",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":649,
+        "card":"KOR10",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":650,
+        "card":"KOR11",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":651,
+        "card":"KOR12",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":652,
+        "card":"KOR13",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":653,
+        "card":"KOR14",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":654,
+        "card":"KOR15",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":655,
+        "card":"KOR16",
+        "ud": 0,
+        "category":"Countries",
+        "country":"South Korea",
+        "color":"linear-gradient(32.98deg, #FF0707 11.75%, #E20000 35.79%, #000580 88.19%)"
+    },
+    {
+        "id":660,
+        "card":"FCW19",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":661,
+        "card":"FCW20",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":662,
+        "card":"FCW21",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":663,
+        "card":"FCW22",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":664,
+        "card":"FCW23",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":665,
+        "card":"FCW24",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":666,
+        "card":"FCW25",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":667,
+        "card":"FCW26",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":668,
+        "card":"FCW27",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":669,
+        "card":"FCW28",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        },
+    {
+        "id":670,
+        "card":"FCW29",
+        "ud": 0,
+        "category":"Timeline",
+        "color":"linear-gradient(207.93deg, #2B0015 5.71%, #6F1913 49.61%, #200200 88.69%)"
+        }
+]
